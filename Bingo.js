@@ -87,3 +87,7 @@ if(quantidadeNumerosSorteados==cartela.length){
 }
 
 sorteio();
+
+//1 - gerar a cartela
+//2 - geração dos números do sorteio
+//3 - conferência da cartela 
